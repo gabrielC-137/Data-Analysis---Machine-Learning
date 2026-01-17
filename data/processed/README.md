@@ -1,3 +1,1 @@
-The dataset used in this project was obtained from the Kaggle platform, a repository widely used for the development of data science and machine learning projects. 
-
-The file contains detailed information on seismic occurrences recorded around the globe with variables including magnitude, depth, geographic position, time of the event, alert level, etc.
+The data cleaning process was carried out to transform raw data imported from Excel into a structured, standardized, and analyzable dataset. These steps included identifying and converting data types, handling missing values, recalculating fields, and standardizing item names. 
