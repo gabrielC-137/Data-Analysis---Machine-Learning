@@ -1,4 +1,4 @@
-## Figures
+## 📈Figures
 
 This folder contains visualizations generated during the analysis process.
 
