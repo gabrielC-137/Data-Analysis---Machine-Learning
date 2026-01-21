@@ -1,4 +1,4 @@
-# Classification Machine Learning Project
+# 📌 Classification Machine Learning Project
 This project explores the application of machine learning techniques to support tsunami alert decision-making based on historical seismic event data. Using a global earthquake dataset obtained from the EveryEarthquake API via Kaggle, the study aims to predict whether a recorded seismic event would trigger a tsunami warning or not, based more on post-event seismic characteristics rather than forecasting the occurrence of earthquakes or tsunamis themselves.
 
 After a comprehensive data cleaning and preprocessing workflow, relevant seismic variables were selected to train and evaluate multiple classification models, including Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN), Linear Discriminant Analysis (LDA), and Quadratic Discriminant Analysis (QDA). Model performance was assessed using accuracy, precision, recall, F1 score, and AUC-ROC metrics on a hold-out test set.
